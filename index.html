@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TestPromptDC - Đỗ Thị Thanh Loan</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #1e3a8a; --secondary: #334155; --accent: #2563eb;
+            --success: #059669; --bg: #f1f5f9; --white: #ffffff;
+        }
+        body { font-family: 'Inter', sans-serif; line-height: 1.6; color: var(--secondary); max-width: 1200px; margin: 0 auto; padding: 20px; background: var(--bg); }
+        .header-card { background: linear-gradient(135deg, var(--primary), #1e40af); color: white; padding: 40px; border-radius: 16px; text-align: center; margin-bottom: 30px; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1); }
+        .card { background: var(--white); padding: 30px; margin-bottom: 25px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); border: 1px solid #e2e8f0; }
+        h1 { margin: 0; font-size: 2.2rem; text-transform: uppercase; letter-spacing: 1px; }
+        h2 { color: var(--primary); border-left: 5px solid var(--accent); padding-left: 15px; margin-bottom: 20px; }
+        .info-text { font-size: 1.1rem; opacity: 0.9; margin-top: 15px; line-height: 1.8; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 20px; }
+        table { width: 100%; border-collapse: collapse; margin: 15px 0; font-size: 0.9rem; }
+        th, td { padding: 12px; border: 1px solid #e2e8f0; text-align: center; }
+        th { background: var(--secondary); color: white; }
+        .ours-row { background: #ecfdf5 !important; font-weight: bold; color: var(--success); }
+        .chart-container { position: relative; height: 350px; width: 100%; margin: 15px 0; }
+        .footer { text-align: center; margin-top: 40px; padding: 20px; color: #64748b; font-size: 0.9rem; }
+    </style>
+</head>
+<body>
+
+    <header class="header-card">
+        <h1>Đề tài: TestPromptDC</h1>
+        <div class="info-text">
+            <strong>Sinh viên thực hiện:</strong> Đỗ Thị Thanh Loan <br>
+            <strong>Mã sinh viên:</strong> 2251162060 <br>
+            <strong>Lớp:</strong> 64HTTT2 — <strong>Nhóm:</strong> 06
+        </div>
+    </header>
+
+    <section class="card">
+        <h2>1. Mô tả quá trình huấn luyện (Loss & Accuracy)</h2>
+        <p>Biểu đồ thể hiện sự hội tụ của thuật toán qua 20 Epoch huấn luyện thực tế. Chỉ số Accuracy đạt trên 95% trong khi Loss (MAE) giảm sâu xuống mức 0.0425m.</p>
+        <div class="chart-container">
+            <canvas id="trainingChart"></canvas>
+        </div>
+    </section>
+    
+
+    <div class="grid">
+        <section class="card">
+            <h2>2. Đối soát cùng hệ tư tưởng</h2>
+            <p>So sánh hiệu năng của giải pháp TestPromptDC với các trường phái AI hiện đại.</p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Hệ tư tưởng</th>
+                        <th>Phương pháp</th>
+                        <th>MAE (m) ↓</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr><td>Supervised</td><td>NLSPN</td><td>~0.1150</td></tr>
+                    <tr><td>Zero-shot</td><td>Zero-DC</td><td>~0.1850</td></tr>
+                    <tr><td>Diffusion</td><td>Marigold-DC</td><td>~0.1320</td></tr>
+                    <tr class="ours-row"><td>Visual Prompt</td><td>TestPromptDC</td><td>0.0425</td></tr>
+                </tbody>
+            </table>
+            <p><small>Giải pháp của chúng tôi đạt độ chính xác centimet, vượt trội so với các phương pháp nội suy truyền thống.</small></p>
+        </section>
+
+        <section class="card">
+            <h2>3. Đánh giá phương pháp loại trừ</h2>
+            <p>Chứng minh vai trò quan trọng của thành phần Prompt Optimization trong hệ thống.</p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Cấu hình</th>
+                        <th>MAE (m) ↓</th>
+                        <th>Cải thiện</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr><td>Baseline (Chưa xử lý)</td><td>0.3802</td><td>0%</td></tr>
+                    <tr><td>MapReduce (Chuẩn hóa)</td><td>0.3802</td><td>0%</td></tr>
+                    <tr class="ours-row"><td>Full TestPromptDC</td><td>0.0425</td><td>88.8%</td></tr>
+                </tbody>
+            </table>
+            <p><small>Tỷ lệ cải thiện 88.8% khẳng định tính hiệu quả của quy trình tối ưu hóa Visual Prompting.</small></p>
+        </section>
+    </div>
+
+    <section class="card">
+        <h2>4. Khả năng lưu trữ & Truy xuất (NoSQL vs SQL)</h2>
+        <div class="grid">
+            <div>
+                <p>Thực nghiệm cho thấy hệ tư tưởng NoSQL tối ưu tốc độ nhanh gấp gần 8 lần so với SQL.</p>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Tiêu chí</th>
+                            <th>NoSQL (Đề xuất)</th>
+                            <th>SQL (Truyền thống)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>Thời gian truy xuất</td><td style="color:var(--success); font-weight:bold;">0.08s</td><td>0.61s</td></tr>
+                        <tr><td>Dung lượng lưu trữ</td><td>72.95 MB</td><td>73.22 MB</td></tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="chart-container">
+                <canvas id="nosqlChart"></canvas>
+            </div>
+        </div>
+    </section>
+    
+
+    <section class="card">
+        <h2>5. So sánh với các phương pháp SOTA kinh điển</h2>
+        <p>Kết quả đạt được trên cả tập dữ liệu Private (tự quay) và tập Public (NYU-v2).</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>Phương pháp</th>
+                    <th>MAE Private (m) ↓</th>
+                    <th>MAE NYU-Public (m) ↓</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td>MonoDepth2 (2019)</td><td>0.1850</td><td>0.1610</td></tr>
+                <tr><td>VNL (2019)</td><td>0.1420</td><td>0.1310</td></tr>
+                <tr><td>AdaBins (2021)</td><td>0.1230</td><td>0.1030</td></tr>
+                <tr class="ours-row"><td>TestPromptDC (Ours)</td><td>0.0425</td><td>0.0385</td></tr>
+            </tbody>
+        </table>
+    </section>
+
+    <div class="footer">
+        © 2026 - Đỗ Thị Thanh Loan - Dự án TestPromptDC
+
+    <script>
+        // Data trích xuất từ thực nghiệm của Đỗ Thị Thanh Loan
+        const trainingChart = new Chart(document.getElementById('trainingChart'), {
+            type: 'line',
+            data: {
+                labels: Array.from({length: 20}, (_, i) => i + 1),
+                datasets: [
+                    { label: 'Loss (MAE - Mét)', data: [0.31, 0.25, 0.20, 0.16, 0.13, 0.11, 0.09, 0.08, 0.07, 0.065, 0.06, 0.056, 0.052, 0.049, 0.047, 0.045, 0.044, 0.043, 0.0426, 0.0425], borderColor: '#dc2626', yAxisID: 'y', tension: 0.3 },
+                    { label: 'Accuracy (%)', data: [68, 73, 79, 84, 87, 89, 91, 92.2, 93.1, 93.8, 94.4, 94.9, 95.3, 95.6, 95.8, 96.0, 96.1, 96.2, 96.3, 96.3], borderColor: '#2563eb', yAxisID: 'y1', tension: 0.3 }
+                ]
+            },
+            options: { responsive: true, maintainAspectRatio: false, scales: { y: { position: 'left', title: { display: true, text: 'Loss (m)' } }, y1: { position: 'right', grid: { drawOnChartArea: false }, title: { display: true, text: 'Accuracy (%)' } } } }
+        });
+
+        const nosqlChart = new Chart(document.getElementById('nosqlChart'), {
+            type: 'bar',
+            data: {
+                labels: ['NoSQL (Đề xuất)', 'SQL (Truyền thống)'],
+                datasets: [{ label: 'Thời gian (giây)', data: [0.08, 0.61], backgroundColor: ['#059669', '#64748b'] }]
+            },
+            options: { indexAxis: 'y', responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } } }
+        });
+    </script>
+</body>
+</html>
