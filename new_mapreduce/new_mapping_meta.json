@@ -1,0 +1,6415 @@
+[
+  {
+    "key": "IMG_6789",
+    "value": {
+      "frame": 0,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_6789_f0.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_6789",
+    "value": {
+      "frame": 1,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_6789_f1.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_6789",
+    "value": {
+      "frame": 10,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_6789_f10.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_6789",
+    "value": {
+      "frame": 11,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_6789_f11.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_6789",
+    "value": {
+      "frame": 12,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_6789_f12.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_6789",
+    "value": {
+      "frame": 13,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_6789_f13.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_6789",
+    "value": {
+      "frame": 2,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_6789_f2.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_6789",
+    "value": {
+      "frame": 3,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_6789_f3.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_6789",
+    "value": {
+      "frame": 4,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_6789_f4.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_6789",
+    "value": {
+      "frame": 5,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_6789_f5.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_6789",
+    "value": {
+      "frame": 6,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_6789_f6.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_6789",
+    "value": {
+      "frame": 7,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_6789_f7.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_6789",
+    "value": {
+      "frame": 8,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_6789_f8.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_6789",
+    "value": {
+      "frame": 9,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_6789_f9.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_6805",
+    "value": {
+      "frame": 0,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_6805_f0.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_6805",
+    "value": {
+      "frame": 1,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_6805_f1.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_6805",
+    "value": {
+      "frame": 2,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_6805_f2.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_6805",
+    "value": {
+      "frame": 3,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_6805_f3.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_6805",
+    "value": {
+      "frame": 4,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_6805_f4.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_6805",
+    "value": {
+      "frame": 5,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_6805_f5.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_6805",
+    "value": {
+      "frame": 6,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_6805_f6.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_6947",
+    "value": {
+      "frame": 0,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_6947_f0.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_6949",
+    "value": {
+      "frame": 0,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_6949_f0.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_6949",
+    "value": {
+      "frame": 1,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_6949_f1.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_6949",
+    "value": {
+      "frame": 2,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_6949_f2.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_6949",
+    "value": {
+      "frame": 3,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_6949_f3.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_6949",
+    "value": {
+      "frame": 4,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_6949_f4.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_6949",
+    "value": {
+      "frame": 5,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_6949_f5.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_6949",
+    "value": {
+      "frame": 6,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_6949_f6.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7026",
+    "value": {
+      "frame": 0,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7026_f0.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7028",
+    "value": {
+      "frame": 0,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7028_f0.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 0,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f0.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 1,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f1.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 10,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f10.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 11,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f11.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 12,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f12.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 13,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f13.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 14,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f14.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 15,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f15.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 16,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f16.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 17,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f17.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 18,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f18.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 19,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f19.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 2,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f2.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 20,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f20.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 21,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f21.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 22,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f22.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 23,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f23.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 24,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f24.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 25,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f25.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 26,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f26.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 27,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f27.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 28,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f28.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 29,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f29.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 3,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f3.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 30,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f30.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 31,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f31.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 32,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f32.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 33,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f33.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 34,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f34.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 35,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f35.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 4,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f4.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 5,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f5.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 6,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f6.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 7,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f7.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 8,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f8.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7619",
+    "value": {
+      "frame": 9,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7619_f9.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 0,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f0.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 1,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f1.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 10,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f10.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 11,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f11.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 12,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f12.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 13,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f13.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 14,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f14.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 15,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f15.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 16,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f16.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 17,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f17.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 18,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f18.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 19,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f19.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 2,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f2.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 20,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f20.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 21,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f21.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 22,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f22.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 23,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f23.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 24,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f24.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 25,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f25.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 26,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f26.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 27,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f27.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 28,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f28.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 29,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f29.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 3,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f3.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 30,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f30.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 31,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f31.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 32,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f32.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 33,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f33.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 34,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f34.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 35,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f35.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 36,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f36.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 37,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f37.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 38,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f38.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 39,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f39.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 4,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f4.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 40,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f40.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 41,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f41.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 42,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f42.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 43,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f43.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 44,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f44.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 45,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f45.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 46,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f46.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 47,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f47.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 48,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f48.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 49,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f49.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 5,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f5.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 50,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f50.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 51,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f51.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 52,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f52.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 53,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f53.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 54,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f54.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 55,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f55.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 56,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f56.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 57,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f57.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 58,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f58.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 59,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f59.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 6,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f6.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 60,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f60.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 61,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f61.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 62,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f62.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 63,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f63.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 64,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f64.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 65,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f65.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 66,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f66.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 67,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f67.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 68,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f68.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 69,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f69.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 7,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f7.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 70,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f70.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 71,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f71.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 72,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f72.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 73,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f73.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 74,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f74.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 75,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f75.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 76,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f76.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 77,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f77.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 78,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f78.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 79,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f79.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 8,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f8.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 80,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f80.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 81,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f81.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 82,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f82.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 83,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f83.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 84,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f84.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 85,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f85.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 86,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f86.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 87,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f87.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 88,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f88.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 89,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f89.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 9,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f9.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 90,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f90.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 91,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f91.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 92,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f92.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 93,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f93.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 94,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f94.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 95,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f95.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 96,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f96.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 97,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f97.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 98,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f98.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7620",
+    "value": {
+      "frame": 99,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7620_f99.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 0,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f0.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 1,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f1.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 10,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f10.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 11,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f11.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 12,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f12.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 13,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f13.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 14,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f14.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 15,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f15.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 16,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f16.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 17,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f17.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 18,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f18.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 19,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f19.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 2,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f2.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 20,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f20.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 21,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f21.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 22,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f22.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 23,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f23.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 24,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f24.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 25,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f25.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 26,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f26.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 27,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f27.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 28,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f28.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 29,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f29.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 3,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f3.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 30,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f30.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 31,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f31.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 32,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f32.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 33,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f33.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 34,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f34.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 35,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f35.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 36,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f36.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 37,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f37.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 38,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f38.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 39,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f39.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 4,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f4.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 40,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f40.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 41,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f41.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 42,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f42.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 43,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f43.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 44,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f44.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 45,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f45.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 46,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f46.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 47,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f47.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 48,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f48.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 49,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f49.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 5,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f5.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 50,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f50.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 51,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f51.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 52,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f52.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 53,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f53.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 54,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f54.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 55,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f55.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 56,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f56.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 57,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f57.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 58,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f58.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 59,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f59.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 6,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f6.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 60,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f60.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 7,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f7.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 8,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f8.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7624",
+    "value": {
+      "frame": 9,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7624_f9.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 0,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f0.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 1,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f1.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 10,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f10.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 11,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f11.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 12,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f12.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 13,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f13.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 14,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f14.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 15,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f15.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 16,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f16.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 17,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f17.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 18,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f18.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 19,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f19.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 2,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f2.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 20,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f20.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 21,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f21.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 22,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f22.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 23,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f23.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 24,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f24.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 25,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f25.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 26,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f26.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 27,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f27.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 28,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f28.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 29,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f29.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 3,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f3.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 30,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f30.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 31,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f31.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 32,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f32.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 33,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f33.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 34,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f34.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 35,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f35.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 36,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f36.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 37,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f37.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 38,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f38.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 39,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f39.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 4,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f4.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 40,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f40.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 41,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f41.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 42,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f42.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 43,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f43.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 44,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f44.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 45,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f45.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 46,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f46.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 47,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f47.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 48,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f48.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 49,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f49.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 5,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f5.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 50,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f50.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 51,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f51.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 52,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f52.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 53,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f53.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 54,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f54.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 55,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f55.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 56,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f56.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 57,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f57.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 58,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f58.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 59,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f59.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 6,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f6.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 7,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f7.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 8,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f8.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7625",
+    "value": {
+      "frame": 9,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7625_f9.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 0,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f0.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 1,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f1.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 10,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f10.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 11,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f11.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 12,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f12.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 13,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f13.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 14,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f14.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 15,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f15.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 16,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f16.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 17,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f17.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 18,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f18.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 19,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f19.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 2,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f2.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 20,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f20.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 21,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f21.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 22,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f22.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 23,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f23.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 24,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f24.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 25,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f25.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 26,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f26.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 27,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f27.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 28,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f28.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 29,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f29.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 3,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f3.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 30,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f30.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 31,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f31.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 32,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f32.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 33,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f33.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 34,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f34.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 35,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f35.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 36,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f36.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 37,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f37.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 38,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f38.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 39,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f39.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 4,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f4.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 40,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f40.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 41,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f41.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 42,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f42.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 43,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f43.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 44,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f44.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 45,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f45.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 46,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f46.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 47,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f47.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 48,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f48.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 49,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f49.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 5,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f5.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 50,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f50.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 51,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f51.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 52,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f52.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 53,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f53.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 54,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f54.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 55,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f55.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 56,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f56.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 57,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f57.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 58,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f58.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 59,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f59.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 6,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f6.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 60,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f60.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 61,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f61.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 62,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f62.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 7,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f7.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 8,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f8.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7626",
+    "value": {
+      "frame": 9,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7626_f9.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 0,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f0.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 1,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f1.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 10,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f10.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 11,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f11.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 12,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f12.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 13,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f13.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 14,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f14.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 15,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f15.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 16,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f16.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 17,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f17.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 18,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f18.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 19,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f19.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 2,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f2.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 20,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f20.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 21,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f21.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 22,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f22.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 23,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f23.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 24,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f24.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 25,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f25.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 26,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f26.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 27,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f27.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 28,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f28.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 29,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f29.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 3,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f3.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 30,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f30.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 31,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f31.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 32,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f32.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 33,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f33.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 34,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f34.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 35,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f35.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 36,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f36.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 37,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f37.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 38,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f38.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 39,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f39.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 4,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f4.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 40,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f40.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 41,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f41.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 42,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f42.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 43,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f43.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 44,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f44.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 45,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f45.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 46,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f46.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 47,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f47.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 48,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f48.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 49,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f49.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 5,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f5.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 50,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f50.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 51,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f51.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 52,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f52.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 53,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f53.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 54,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f54.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 55,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f55.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 56,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f56.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 57,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f57.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 58,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f58.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 59,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f59.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 6,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f6.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 60,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f60.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 7,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f7.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 8,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f8.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7627",
+    "value": {
+      "frame": 9,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7627_f9.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 0,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f0.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 1,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f1.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 10,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f10.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 11,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f11.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 12,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f12.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 13,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f13.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 14,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f14.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 15,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f15.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 16,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f16.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 17,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f17.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 18,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f18.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 19,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f19.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 2,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f2.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 20,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f20.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 21,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f21.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 22,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f22.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 23,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f23.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 24,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f24.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 25,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f25.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 26,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f26.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 27,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f27.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 28,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f28.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 29,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f29.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 3,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f3.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 30,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f30.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 31,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f31.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 32,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f32.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 33,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f33.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 34,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f34.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 35,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f35.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 36,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f36.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 37,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f37.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 38,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f38.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 39,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f39.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 4,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f4.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 40,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f40.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 41,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f41.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 42,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f42.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 43,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f43.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 44,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f44.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 45,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f45.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 46,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f46.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 47,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f47.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 48,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f48.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 49,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f49.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 5,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f5.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 50,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f50.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 51,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f51.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 52,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f52.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 53,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f53.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 54,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f54.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 55,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f55.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 56,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f56.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 6,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f6.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 7,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f7.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 8,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f8.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7628",
+    "value": {
+      "frame": 9,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7628_f9.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 0,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f0.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 1,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f1.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 10,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f10.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 11,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f11.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 12,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f12.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 13,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f13.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 14,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f14.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 15,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f15.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 16,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f16.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 17,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f17.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 18,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f18.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 19,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f19.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 2,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f2.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 20,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f20.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 21,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f21.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 22,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f22.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 23,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f23.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 24,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f24.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 25,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f25.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 26,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f26.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 27,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f27.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 28,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f28.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 29,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f29.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 3,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f3.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 30,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f30.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 31,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f31.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 32,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f32.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 33,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f33.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 34,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f34.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 35,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f35.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 36,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f36.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 37,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f37.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 38,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f38.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 39,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f39.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 4,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f4.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 40,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f40.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 41,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f41.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 42,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f42.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 43,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f43.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 44,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f44.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 45,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f45.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 46,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f46.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 47,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f47.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 48,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f48.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 49,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f49.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 5,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f5.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 50,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f50.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 51,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f51.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 52,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f52.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 53,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f53.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 54,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f54.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 55,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f55.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 56,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f56.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 57,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f57.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 58,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f58.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 59,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f59.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 6,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f6.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 60,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f60.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 61,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f61.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 62,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f62.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 63,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f63.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 64,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f64.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 65,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f65.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 66,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f66.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 67,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f67.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 68,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f68.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 7,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f7.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 8,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f8.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7629",
+    "value": {
+      "frame": 9,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7629_f9.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 0,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f0.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 1,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f1.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 10,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f10.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 11,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f11.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 12,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f12.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 13,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f13.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 14,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f14.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 15,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f15.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 16,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f16.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 17,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f17.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 18,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f18.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 19,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f19.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 2,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f2.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 20,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f20.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 21,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f21.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 22,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f22.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 23,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f23.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 24,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f24.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 25,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f25.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 26,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f26.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 27,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f27.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 28,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f28.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 29,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f29.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 3,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f3.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 30,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f30.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 31,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f31.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 32,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f32.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 33,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f33.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 34,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f34.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 35,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f35.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 36,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f36.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 4,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f4.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 5,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f5.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 6,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f6.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 7,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f7.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 8,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f8.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7633",
+    "value": {
+      "frame": 9,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7633_f9.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7634",
+    "value": {
+      "frame": 0,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7634_f0.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7634",
+    "value": {
+      "frame": 1,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7634_f1.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7634",
+    "value": {
+      "frame": 2,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7634_f2.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7634",
+    "value": {
+      "frame": 3,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7634_f3.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7634",
+    "value": {
+      "frame": 4,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7634_f4.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7634",
+    "value": {
+      "frame": 5,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7634_f5.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7634",
+    "value": {
+      "frame": 6,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7634_f6.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  },
+  {
+    "key": "IMG_7634",
+    "value": {
+      "frame": 7,
+      "img_path": "/kaggle/input/splitted-frames-v1/kaggle/working/extracted_videos/IMG_7634_f7.jpg",
+      "normalization": {
+        "rgb_scale": 255.0,
+        "depth_scale": 1000.0
+      }
+    }
+  }
+]
